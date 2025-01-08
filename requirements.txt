@@ -1,3 +1,3 @@
-streamlit==1.25.0  # Replace with your current version
-qrcode==7.4.2      # QR code generation
-Pillow     # Image manipulation for QR code logo
+streamlit
+qrcode
+Pillow   
